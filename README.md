@@ -1,3 +1,5 @@
+![snake](https://github.com/sanjay200302/sanjay200302/output/snake-dark.svg)
+
 # 💫 About Me:
 I'm **SanjayKumar**, An Artificial Intelligence & Machine Learning Engineer [fresher] with a strong foundation in AI/ML, robotics, cloud computing, and software development. I’m passionate about creating impactful technology, solving complex problems, and continuously expanding my skills.  <br><br>📌 Ready to build my career in **AI/ML Engineering and Cloud roles**, where I can apply my skills to deliver production‑ready solutions and grow within a high‑impact engineering team.<br>
 
