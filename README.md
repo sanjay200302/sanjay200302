@@ -16,7 +16,7 @@ I'm **SanjayKumar**, An Artificial Intelligence & Machine Learning Engineer [fre
 [![](https://komarev.com/ghpvc/?username=sanjay200302&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 📈 Contribution Graph:
-[![Sanjay’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjay200302&theme=blueberry)](https://github.com/sanjay200302)
+[![Sanjay’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjay200302&theme=green)](https://github.com/sanjay200302)
 
 ---
 
